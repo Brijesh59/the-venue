@@ -67,8 +67,6 @@ class Header extends Component {
                         open={this.state.drawerOpen}
                         onClose={(value)=> this.toggleDrawer(value)}
                     />
-
-
                 </Toolbar>
             </AppBar>
         );

@@ -50,7 +50,7 @@ class Discount extends Component {
                                 text="Purchase tickets"
                                 bck="#ffa800"
                                 color="#ffffff"
-                                link="http://google.com"
+                                link="#"
                             />
                         
                         </div>
